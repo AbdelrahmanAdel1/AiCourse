@@ -1,2 +1,1 @@
-# Assesment1
-Training on making the Repo and cloning it to rule the world
+#AI course tasks vary from research tasks to building ML and DL models
